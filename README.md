@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Commands
+
+```
+npx create-react-app my-project-name --template --typescript
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
